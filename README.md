@@ -19,6 +19,7 @@ The input data for the model can be found under "docs" in the model folder. The 
 More information on the models will be available here:
 - Paper on the building model (coming soon)
 - newTRENDs D6.1 (coming soon)
+
 If you want to use flow for your research, we would appreciate it is you would cite both mentioned sources.
 
 ## Contact
