@@ -22,5 +22,10 @@ More information on the models will be available here:
 
 If you want to use flow for your research, we would appreciate it is you would cite both mentioned sources.
 
-## Contact
-meta.thurid.lotz@isi.fraunhofer.de
+## License
+flow is under development by Fraunhofer ISI in the framework of the H2020 project newTRENDs. The developers (2021-2022) include:
+
+Meta Thurid Lotz: meta.thurid.lotz@isi.fraunhofer.de
+
+flow is licensed under the open source MIT License.
+
